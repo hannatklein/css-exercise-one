@@ -9,10 +9,10 @@ nav {
   position: fixed;
   width: 100%;
 }
-/* changed the section width form 60% to 100% */
+
 section {
   margin: 0 auto;
-  width: 100%;
+  width: 60%;
 }
 
 h1 {
